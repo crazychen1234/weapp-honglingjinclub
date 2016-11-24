@@ -2,7 +2,7 @@
 
 ### 说明：
 
-实现红领巾（www.honglingjinclub.com）首页功能。
+实现红领巾（honglingjinclub.com）首页功能。
 
 ### 数据接口:
 
